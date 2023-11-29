@@ -1,4 +1,22 @@
 #  Multer-Express-Files 📁🚀
+---
+## Tecnologías Utilizadas
+
+### Express.js 🛤️
+
+Express.js es un framework de aplicaciones web para Node.js. Es utilizado para construir APIs y aplicaciones web de manera rápida y fácil.
+
+### Swagger 📜
+
+Swagger es una herramienta para diseñar, construir, documentar, y utilizar servicios web RESTful. Permite documentar la API de forma clara y estructurada.
+
+### Node.js 🟢
+
+Node.js es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome. Es usado para desarrollar aplicaciones del lado del servidor.
+
+### Multer 📦
+
+Multer es un middleware para Express.js que facilita la subida de archivos.
 
 ---
 
